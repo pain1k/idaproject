@@ -89,6 +89,7 @@ export default {
   top: 108px;
   right: 88px;
   display: flex;
+  z-index:99;
 }
 
 
