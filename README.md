@@ -1,5 +1,6 @@
 # idaproject
-
+download code
+run terminal
 # install dependencies
 $ npm install
 
