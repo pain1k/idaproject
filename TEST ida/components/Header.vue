@@ -109,6 +109,7 @@ font-style: normal;
 font-weight: bold;
 font-size: 8px;
 border-radius: 50%;
+color:#fff;
 }
 
 @media (max-width:992px) {
