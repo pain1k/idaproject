@@ -79,7 +79,7 @@ export default {
   position: fixed;
   left: 0px;
   top: 66px;
-  width: 248px;
+  width: 160px;
   height: 100vh;
   padding-left: 88px;
   z-index: 9999;
@@ -97,6 +97,7 @@ export default {
   font-size: 32px;
   line-height: 41px;
   color: #1f1f1f;
+  padding-top: 32px;
 }
 
 .sidebar__cat__list {
@@ -105,6 +106,7 @@ export default {
 
 .sidebar__cat__item {
   cursor: pointer;
+  margin-bottom: 16px;
   font-family: PT Sans;
   font-style: normal;
   font-weight: normal;
